@@ -10,7 +10,7 @@ Everything in these repositories is built at home, from scratch, on my own equip
 
 | Repository | What it shows | Status |
 |---|---|---|
-| [linux-hardening-ansible](https://github.com/muhammadalinaseem/linux-hardening-ansible) | An Ansible role that hardens Debian, Ubuntu and Rocky Linux, tested with Molecule on every push | v0.1 |
+| [linux-hardening-ansible](https://github.com/muhammadalinaseem/linux-hardening-ansible) | An Ansible role that hardens Debian, Ubuntu and Rocky Linux, tested with Molecule on every push | v0.1.1 |
 | modsecurity-crs-staged-rollout | A WAF lab: ModSecurity and the OWASP Core Rule Set rolled out in stages, from detection-only to blocking | Coming soon |
 | siem-web-detections | Wazuh rules for web attacks, mapped to MITRE ATT&CK | Planned |
 
